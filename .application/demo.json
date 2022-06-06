@@ -1,0 +1,15 @@
+{
+    "host": {
+        "provider": "GitHub",
+        "root": "JSphereDev",
+        "auth": ""
+    },
+    "packages": {
+        "app": { "tag": "main", "useLocalRepo": false }
+    },
+    "routeMappings": [
+        { "route": "", "method": "", "path": "" }
+    ],
+    "appSettings": {
+    }
+}
