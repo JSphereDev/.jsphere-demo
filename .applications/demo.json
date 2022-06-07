@@ -5,7 +5,7 @@
         "auth": ""
     },
     "packages": {
-        "app": { "tag": "main", "useLocalRepo": false }
+        "demo": { "tag": "main" }
     },
     "routeMappings": [
         { "route": "", "method": "", "path": "" }
