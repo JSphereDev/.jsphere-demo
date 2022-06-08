@@ -1,6 +1,6 @@
 {
     "host": {
-        "provider": "GitHub",
+        "name": "GitHub",
         "root": "JSphereDev",
         "auth": ""
     },
