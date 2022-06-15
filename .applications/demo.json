@@ -5,7 +5,8 @@
         "auth": ""
     },
     "packages": {
-        "demo": { "tag": "main" }
+        "demo": { "tag": "main" },
+        "etc": { "tag": "main" }
     },
     "routeMappings": [
         { "route": "", "method": "", "path": "" }
